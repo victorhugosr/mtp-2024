@@ -9,6 +9,24 @@ Cada pasta representa uma aula com exercícios e um README específico para cada
 - **AulaXX**: Exercícios e atividades desenvolvidos durante cada aula.
 - **ProjetoFinal**: O projeto final integrador, com uma aplicação Java completa.
 
+📁 Projeto_Final_Programacao
+├── 📁 Aula01
+│   ├── Main.java
+│   ├── README.md  // Explicação dos exercícios dessa aula
+│   └── outros arquivos da aula 1
+├── 📁 Aula02
+│   ├── Exercicio1.java
+│   ├── Exercicio2.java
+│   ├── README.md  // Explicação dos exercícios dessa aula
+│   └── outros arquivos da aula 2
+├── 📁 ProjetoFinal
+│   ├── src
+│   │   ├── Main.java
+│   │   ├── outros arquivos do projeto
+│   └── README.md  // Detalhes do projeto final
+├── README.md      // Apresentação do repositório
+└── .gitignore     // Arquivos e pastas a serem ignorados
+
 ## 🚀 Como Executar os Exercícios
 
 Para rodar cada exercício:
