@@ -4,12 +4,8 @@ Este repositório contém todos os exercícios e o projeto final da disciplina *
 
 ## 🗂 Estrutura do Repositório
 
-Cada pasta representa uma aula com exercícios e um README específico para cada aula. No final, temos o projeto final.
-
-- **AulaXX**: Exercícios e atividades desenvolvidos durante cada aula.
-- **ProjetoFinal**: O projeto final integrador, com uma aplicação Java completa.
-
-📁 Projeto_Final_Programacao
+```
+📁 mtp-2024
 ├── 📁 Aula01
 │   ├── Main.java
 │   ├── README.md  // Explicação dos exercícios dessa aula
@@ -26,6 +22,12 @@ Cada pasta representa uma aula com exercícios e um README específico para cada
 │   └── README.md  // Detalhes do projeto final
 ├── README.md      // Apresentação do repositório
 └── .gitignore     // Arquivos e pastas a serem ignorados
+```
+
+Cada pasta representa uma aula com exercícios e um README específico para cada aula. No final, temos o projeto final.
+
+- **AulaXX**: Exercícios e atividades desenvolvidos durante cada aula.
+- **ProjetoFinal**: O projeto final integrador, com uma aplicação Java completa.  
 
 ## 🚀 Como Executar os Exercícios
 
@@ -59,3 +61,4 @@ Descrição detalhada do projeto final, incluindo funcionalidades e interface gr
 ## 📜 Licença
 
 Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
+
