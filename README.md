@@ -6,19 +6,20 @@ Este repositório contém todos os exercícios e o projeto final da disciplina *
 
 ```
 📁 mtp-2024
-├── 📁 Aula01
-│   ├── Main.java
-│   ├── README.md  // Explicação dos exercícios dessa aula
-│   └── outros arquivos da aula 1
-├── 📁 Aula02
-│   ├── Exercicio1.java
-│   ├── Exercicio2.java
-│   ├── README.md  // Explicação dos exercícios dessa aula
-│   └── outros arquivos da aula 2
+├── 📁 Aulas
+│   ├── 📁 Aula01
+│   │   ├── Exercicio1.java
+│   │   ├── Exercicio2.java
+│   │   └── README.md  // Explicação dos exercícios da aula 1
+│   ├── 📁 Aula02
+│   │   ├── Exercicio1.java
+│   │   ├── Exercicio2.java
+│   │   └── README.md  // Explicação dos exercícios da aula 2
+│   └── ...
 ├── 📁 ProjetoFinal
 │   ├── src
 │   │   ├── Main.java
-│   │   ├── outros arquivos do projeto
+│   │   ├── outros arquivos do projeto final
 │   └── README.md  // Detalhes do projeto final
 ├── README.md      // Apresentação do repositório
 └── .gitignore     // Arquivos e pastas a serem ignorados
