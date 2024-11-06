@@ -18,9 +18,13 @@ Para rodar cada exercício:
 
 ## 📝 Exercícios Realizados
 
-- **Aula 01**: Introdução e primeiros exercícios em Java.
-- **Aula 02**: Interfaces gráficas com Swing.
-- **...**
+- **Aula 01**: Apresentação da Disciplina, Java e ambiente.
+- **Aula 02**: Tipos de Dados, Classes Wrapper, Herança e Agregação.
+- **Aula 03**: AWT e Swing.
+- **Aula 04**: Classes Abstratas, Interfaces e Eventos.
+- **Aula 05**: Layouts Avançados e Exceptions.
+- **Aula 06**: APIs, Libraries, Conexão com BD e Manipulação de Arquivos.
+- **Aula 07**: Padrões de Projeto e MVC.
 
 ## 📈 Projeto Final
 
@@ -32,30 +36,7 @@ Descrição detalhada do projeto final, incluindo funcionalidades e interface gr
 - **NetBeans IDE**: Ambiente de desenvolvimento.
 - **Git e GitHub**: Controle de versão e repositório remoto.
 
-## 🌐 Como Contribuir e Atualizar o Repositório
-
-Para manter o repositório sempre atualizado:
-1. **Clone o repositório**:
-    ```bash
-    git clone https://github.com/seu-usuario/Projeto_Final_Programacao.git
-    ```
-2. **Navegue até a pasta do repositório**:
-    ```bash
-    cd Projeto_Final_Programacao
-    ```
-3. **Criar uma nova pasta para uma nova aula**:
-    ```bash
-    mkdir AulaXX
-    ```
-4. **Adicionar e commitar alterações**:
-    ```bash
-    git add .
-    git commit -m "Adiciona exercícios da aula XX"
-    ```
-5. **Enviar para o GitHub**:
-    ```bash
-    git push origin main
-    ```
+---
 
 ## 📜 Licença
 
